@@ -1,0 +1,20 @@
+uuid: 97ae8449-da1c-4613-a441-f61f4b89b865
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KFQ8RYVPwa9W2pSw1QQrsN9kebrYeY0APvxgbpwYAIE
+id: test
+label: 'Test environment'
+folder: ../config/splits/test
+module:
+  cache_control_override: 0
+  dynamic_page_cache: 0
+  page_cache: 0
+  stage_file_proxy: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

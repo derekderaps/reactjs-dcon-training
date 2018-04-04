@@ -1,0 +1,30 @@
+uuid: 40b064e4-bdd1-4592-a881-62dd652f2d49
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: okh-LoVPDEBfuMpIvkWYTYlV8ejB6qgiYqEE6YXGuJo
+id: dev
+label: Development
+folder: ../config/splits/dev
+module:
+  coffee: 0
+  config_direct_save: 0
+  config_provider: 0
+  config_sync: 0
+  config_update: 0
+  config_update_ui: 0
+  dblog: 0
+  devel: 0
+  devel_generate: 0
+  kint: 0
+  search_kint: 0
+  stage_file_proxy: 0
+  twig_xdebug: 0
+  views_ui: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

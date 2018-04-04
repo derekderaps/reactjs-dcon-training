@@ -1,0 +1,6 @@
+toolbar_items:
+  - devel.configs_list
+  - devel.container_info.service
+  - devel.route_info.item
+_core:
+  default_config_hash: ysHEvvazIuaJ5BdY0dUw2_my_Q5hM8ypdXwFfaIrvMw

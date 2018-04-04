@@ -1,0 +1,17 @@
+uuid: 3b79e2cb-c862-4012-bac1-8eb35d7abeb0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: L1fu6z9MXZnAJU0-DEh4-xYZBMi9Gk2b_keBYkzV98E
+id: local
+label: 'Local development'
+folder: ../config/splits/local
+module:
+  browsersync: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 1

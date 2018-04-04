@@ -1,0 +1,22 @@
+uuid: 18a3e095-4058-4a83-84d8-bbf8be56adf1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oKeN_C3ugNPQw4SWxXdgonG8F8hQ53IWVi43roSrLF8
+id: live
+label: 'Live environment'
+folder: ../config/splits/live
+module:
+  cache_control_override: 0
+  config_files: 0
+  config_tools: 0
+  dynamic_page_cache: 0
+  git_config: 0
+  page_cache: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
